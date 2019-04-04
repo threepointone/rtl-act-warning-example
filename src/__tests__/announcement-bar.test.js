@@ -73,8 +73,6 @@ const statusBadMessageAtlassian = {
     }
 };
 
-jest.useFakeTimers();
-
 describe('<AnnouncementBar />', () => {
 
     beforeEach(() => {
